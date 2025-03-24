@@ -10,9 +10,6 @@ Le **dictionnaire** (`dict`) est la meilleure structure pour gérer les employé
 ✅ **Unicité des clés** : L’ID étant une clé unique, pas de doublons possibles.  
 
 ---
-![image](https://github.com/user-attachments/assets/5618bd11-8dee-488b-996d-fb08d6c6a529)
-
----
 ## **Implémentation en Python :**  
 
 ```python
