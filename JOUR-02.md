@@ -23,6 +23,8 @@ Voici les **principales complexités** et leurs impacts :
 | **O(2ⁿ)**    | **Temps exponentiel**         | Très lent, utilisé pour des problèmes comme les arbres de décision ou la récursion brute. |
 
 ---
+![image](https://github.com/user-attachments/assets/5618bd11-8dee-488b-996d-fb08d6c6a529)
+
 
 ## **3️⃣ Exemples concrets de complexité avec Python**
 
